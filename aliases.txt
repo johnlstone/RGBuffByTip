@@ -1,0 +1,5 @@
+:a /alias RaggsMD /ui action toolbarPane04;/pause 4;/ui action toolbarPane05
+:b /alias RaggsMD /setmood 
+ll /target 
+bs10 /ui action chatBackspace;/ui action chatBackspace;/ui action chatBackspace;/ui action chatBackspace;/ui action chatBackspace;/ui action chatBackspace;/ui action chatBackspace;/ui action chatBackspace;/ui action chatBackspace;/ui action chatBackspace;
+

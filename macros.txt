@@ -1,0 +1,6 @@
+version: 0000
+
+26 processLog vrepair #ffffff /pause 0.25;/echo startProcess;/pause 0.1;/save profiles\/scoutt\/TC-Prime\/281482694823987_chatlog.txt;/pause 0 .1;/log;/log;/pause 0.1;/pause 0.1;/load profiles\/scoutt\/TC-Prime\/281482694823987_chatlog.txt;/[rgg;/macro getTipAmount;/ui action chatTab 9;
+27 main combatAttitudeEvasive #ffffff /pause 0.25;/ui action chaTab 9;/pause .01;/macro processLog;/pause .5;/macro main;
+28 clearTip haveConsent #ffffff /pause 0.25;/tip roggs 1;
+29 getTipAmount feignDeath #ffffff /pause 0.25;/echo getting amount; /ui action chatHistoryUp;/bs10;/ui action chatCursorLeftOneWord;/bs10;/ui action chatCursorLeftOneWord;/ui action delete;/ui action chatCursorHome; ;
